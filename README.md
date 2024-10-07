@@ -1,4 +1,4 @@
-<img src="images/H2.jpg">
+<img src="H2.jpg">
 
 ## Description
 This analysis compares the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python.
