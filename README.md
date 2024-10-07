@@ -9,6 +9,6 @@ This analysis compares the levelized cost of hydrogen production of the steam me
 - Evaluating carbon pricing strategies for clean hydrogen: Calculated carbon dioxide emissions associated with different production methods and proposed a carbon price that incentivizes the use of renewable energy sources for hydrogen generation.
 
 ## Results
-<img src="/images/LCOH.PNG">
+<img src="LCOH.PNG">
 
-<img src="/images/RES_CO2.PNG">
+<img src="RES_CO2.PNG">
