@@ -34,10 +34,32 @@ As technology advances, the costs and efficiencies of both methods may change. F
 #### Policy and Market Factors: 
 Government policies, market demand, and the availability of renewable energy sources can also influence the choice between these methods. For example, incentives for renewable energy can make electrolysis more economically attractive.
 
-<img src="predicted_res.png">
+
 
 <img src="RES_CO2.PNG">
 
+### Key Points:
+
+#### Required Renewable Energy Share: 
+The analysis indicates that a 64% share of renewables in the energy mix is necessary. This suggests a significant shift towards cleaner energy sources is required.
+
+#### CO₂ Tax Requirement: 
+A CO₂ tax of 77.5 cent€/kgCO₂ is proposed. This carbon pricing mechanism aims to incentivize the reduction of greenhouse gas emissions.
+
+### Implications:
+
+#### Transition to Renewables: 
+Achieving a 64% renewable energy share will necessitate substantial investments in renewable energy technologies like solar, wind, and hydropower.
+
+#### Economic Impact: 
+Implementing a CO₂ tax could have economic implications, potentially leading to higher energy costs for consumers and businesses. However, it can also drive innovation and investment in low-carbon technologies.
+
+#### Environmental Benefits: 
+Both the increased share of renewables and the CO₂ tax can contribute to reducing greenhouse gas emissions and mitigating climate change.
+
+#### Policy Implications: 
+Achieving these goals will likely require a combination of policies, including subsidies for renewable energy, regulations to reduce carbon emissions, and international cooperation.
 Conclusion:
 
+## Final Thoughts
 While steam-methane reforming currently offers a more cost-effective option, the environmental benefits of electrolysis make it a promising alternative, especially as renewable energy sources become more accessible and affordable. The future of hydrogen production will likely involve a mix of both methods, with the optimal choice depending on specific factors such as location, energy costs, and environmental regulations.
