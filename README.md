@@ -44,7 +44,7 @@ Government policies, market demand, and the availability of renewable energy sou
 The analysis indicates that a 64% share of renewables in the energy mix is necessary. This suggests a significant shift towards cleaner energy sources is required.
 
 #### CO₂ Tax Requirement: 
-A CO₂ tax of 77.5 cent€/kgCO₂ is proposed. This carbon pricing mechanism aims to incentivize the reduction of greenhouse gas emissions.
+A CO₂ tax of 77.5 cent€/kgCO₂ is proposed. This carbon pricing mechanism aims to equalize the LCOH for both processes, making the electrolyis process more competitive.
 
 ### Implications:
 
