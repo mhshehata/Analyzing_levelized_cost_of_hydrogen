@@ -11,7 +11,7 @@ This analysis compares the levelized cost of hydrogen production of the steam me
 ## Key Findings
 <img src="LCOH.PNG">
 
-### Specific Investment Cost (SIC):
+#### Specific Investment Cost (SIC):
 
 Electrolysis has a significantly higher SIC (1000 €/kW) compared to steam-methane reforming (530 €/kW). This suggests that the initial capital investment required for electrolysis is substantially greater.
 
