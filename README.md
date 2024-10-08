@@ -34,7 +34,7 @@ As technology advances, the costs and efficiencies of both methods may change. F
 #### Policy and Market Factors: 
 Government policies, market demand, and the availability of renewable energy sources can also influence the choice between these methods. For example, incentives for renewable energy can make electrolysis more economically attractive.
 
-
+---------------------------------------------------------------
 
 <img src="RES_CO2.PNG">
 
