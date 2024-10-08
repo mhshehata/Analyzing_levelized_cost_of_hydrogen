@@ -31,7 +31,8 @@ The choice between these two methods involves a trade-off between cost and envir
 ### Technological Advancements: 
 As technology advances, the costs and efficiencies of both methods may change. Future developments could potentially reduce the cost gap between electrolysis and steam-methane reforming.
 
-### Policy and Market Factors: Government policies, market demand, and the availability of renewable energy sources can also influence the choice between these methods. For example, incentives for renewable energy can make electrolysis more economically attractive.
+### Policy and Market Factors: 
+Government policies, market demand, and the availability of renewable energy sources can also influence the choice between these methods. For example, incentives for renewable energy can make electrolysis more economically attractive.
 
 <img src="predicted_res.png">
 
