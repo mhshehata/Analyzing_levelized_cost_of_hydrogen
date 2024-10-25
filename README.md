@@ -59,7 +59,7 @@ Both the increased share of renewables and the CO₂ tax can contribute to reduc
 
 #### Policy Implications: 
 Achieving these goals will likely require a combination of policies, including subsidies for renewable energy, regulations to reduce carbon emissions, and international cooperation.
-Conclusion:
+
 
 ## Final Thoughts
 While steam-methane reforming currently offers a more cost-effective option, the environmental benefits of electrolysis make it a promising alternative, especially as renewable energy sources become more accessible and affordable. The future of hydrogen production will likely involve a mix of both methods, with the optimal choice depending on specific factors such as location, energy costs, and environmental regulations.
